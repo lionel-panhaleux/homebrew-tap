@@ -5,7 +5,7 @@ class Pst < Formula
   desc "plain-simple-tickets: git-friendly, one-line-per-ticket work tracker for AI agents"
   homepage "https://github.com/lionel-panhaleux/pst"
   url "https://github.com/lionel-panhaleux/pst.git", branch: "main"
-  version "0.1.0"
+  version "0.2.0"
   head "https://github.com/lionel-panhaleux/pst.git", branch: "main"
 
   depends_on "rust" => :build
