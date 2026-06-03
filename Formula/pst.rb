@@ -6,7 +6,6 @@
 class Pst < Formula
   desc "Git-friendly, one-line-per-ticket work tracker for AI agents"
   homepage "https://github.com/lionel-panhaleux/pst"
-  version "0.2.0"
   license "MIT"
 
   head do
