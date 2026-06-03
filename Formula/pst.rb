@@ -15,23 +15,23 @@ class Pst < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.3.1/pst-aarch64-apple-darwin.tar.gz"
-      sha256 "903f824c49861baf603f7672341c6e9d25b7d72993b85c18f3b0f24960948110"
+      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.4.0/pst-aarch64-apple-darwin.tar.gz"
+      sha256 "e36be4e1f9b180a68c8be93cb0d6e533f8347a7678580b76142cb8aba525a8da"
     end
     on_intel do
-      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.3.1/pst-x86_64-apple-darwin.tar.gz"
-      sha256 "b1c96b6e1d21329974e601fb5bff887cb1add3ee668da22646a5e856823f1267"
+      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.4.0/pst-x86_64-apple-darwin.tar.gz"
+      sha256 "a00cc9470b085331d49ed423078cef4a6c3bad72ce2fb0bb4044bd9efb8cf5bb"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.3.1/pst-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "8d07e288c6c5be5af6069efcb561b654c848ce0a5c3a5461682a91e4d73f4168"
+      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.4.0/pst-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "26e340dacea94ba30590a6c4f315d6a08360ab9000cb62419b2c35172e209c5c"
     end
     on_intel do
-      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.3.1/pst-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "cba06cdfb590f83f837c733b4b29fdff0fb74153c18fad3a247b7ab0ef5d7cb3"
+      url "https://github.com/lionel-panhaleux/pst/releases/download/v0.4.0/pst-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "18377ead7da486e14cb03868db45d919fc17f1c9b64a109440cfa10fb8aa8714"
     end
   end
 
